@@ -4,6 +4,8 @@ namespace Aug24Project
 {
     class Program
     {
+        //-----------------  Exercise 2
+        // Methods for Sum and Multiply 
 
         public static int Sum(int num1, int num2)
             {
