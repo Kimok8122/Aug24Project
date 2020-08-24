@@ -25,10 +25,11 @@ namespace Aug24Project
 
  
             //-------------- Exercise 1
-            // Name: Michael
-            // Favorite Color: Blue
-            // Favorite Animal: Walrus
-            // Favorite Band: The Beatles
+            //USER ADDED INFO
+            // Name: 
+            // Favorite Color:
+            // Favorite Animal: 
+            // Favorite Band:
 
             Console.WriteLine("Welcome, may I ask for your first name?");
             var userName = Console.ReadLine();
