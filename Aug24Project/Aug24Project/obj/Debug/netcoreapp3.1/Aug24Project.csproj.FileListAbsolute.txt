@@ -1,0 +1,12 @@
+/Users/kimo/repos/Aug24Project/Aug24Project/Aug24Project/obj/Debug/netcoreapp3.1/Aug24Project.csprojAssemblyReference.cache
+/Users/kimo/repos/Aug24Project/Aug24Project/Aug24Project/obj/Debug/netcoreapp3.1/Aug24Project.AssemblyInfoInputs.cache
+/Users/kimo/repos/Aug24Project/Aug24Project/Aug24Project/obj/Debug/netcoreapp3.1/Aug24Project.AssemblyInfo.cs
+/Users/kimo/repos/Aug24Project/Aug24Project/Aug24Project/obj/Debug/netcoreapp3.1/Aug24Project.csproj.CoreCompileInputs.cache
+/Users/kimo/repos/Aug24Project/Aug24Project/Aug24Project/bin/Debug/netcoreapp3.1/Aug24Project.deps.json
+/Users/kimo/repos/Aug24Project/Aug24Project/Aug24Project/bin/Debug/netcoreapp3.1/Aug24Project.runtimeconfig.json
+/Users/kimo/repos/Aug24Project/Aug24Project/Aug24Project/bin/Debug/netcoreapp3.1/Aug24Project.runtimeconfig.dev.json
+/Users/kimo/repos/Aug24Project/Aug24Project/Aug24Project/bin/Debug/netcoreapp3.1/Aug24Project.dll
+/Users/kimo/repos/Aug24Project/Aug24Project/Aug24Project/bin/Debug/netcoreapp3.1/Aug24Project.pdb
+/Users/kimo/repos/Aug24Project/Aug24Project/Aug24Project/obj/Debug/netcoreapp3.1/Aug24Project.dll
+/Users/kimo/repos/Aug24Project/Aug24Project/Aug24Project/obj/Debug/netcoreapp3.1/Aug24Project.pdb
+/Users/kimo/repos/Aug24Project/Aug24Project/Aug24Project/obj/Debug/netcoreapp3.1/Aug24Project.genruntimeconfig.cache
