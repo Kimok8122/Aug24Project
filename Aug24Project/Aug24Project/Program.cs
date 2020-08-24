@@ -24,7 +24,7 @@ namespace Aug24Project
             Console.WriteLine("Final question, what's your favorite band?");
             var band = Console.ReadLine();
 
-
+            Console.WriteLine($"Again, Welcome {userName}, I look forward to seeing a {color} {animal} while listening to {band} very soon :)");
 
 
 
